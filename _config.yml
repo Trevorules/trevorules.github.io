@@ -14,7 +14,7 @@ name                     : &name "Trevor Alston"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "trevorules/trevorules.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Trevor Alston"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "6th Year PhD student"
   location         : "Earth"
   employer         : "Duke University"
   uri              : # URL
@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  lab              : "https://pearsonlab.github.io/people.html"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
