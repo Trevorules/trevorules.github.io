@@ -9,15 +9,15 @@ redirect_from:
 
 Time for a change. Welcome. The rest of the bio will happen soon
 
-A data-driven personal websitetth
+Bio here
 ======
-Bigger Bio
+Bio entry will be written here
 
-Getting started
+Objectives
 ======
-1. Fork [here](https://trevorules.github.io/teaching/) 
+1. Tutoring/Teaching stuff [here](https://trevorules.github.io/teaching/) 
 
-Site-wide configuration
+Interests
 ------
 hi
 
@@ -25,13 +25,11 @@ Create content & metadata
 ------
 hi
 **Markdown generator**
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
 How to edit your site's GitHub repository
 ------
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
