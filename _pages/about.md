@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, just as a head's up the site is still under development! The rest of the bio will happen soon.
+Welcome! The site is still under development. The rest of this site will be updated shortly.
 
 About Me
 ======
