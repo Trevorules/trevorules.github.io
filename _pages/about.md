@@ -9,9 +9,12 @@ redirect_from:
 
 Time for a change. Welcome. The rest of the bio will happen soon
 
-Bio here
+About Me
 ======
-Bio entry will be written here
+
+I am a 6th year PhD candidate in the Neurobiology department at Duke University specializing in computational neuroscience and more broadly neural engineering. I am a senior member of the Pearson Lab, lead by Dr. John Pearson, where collectively we build software tools for neuroscience applications. My project focus on building a real-time tool for detecting latent patterns for oscillatory neural data. 
+
+
 
 Objectives
 ======
@@ -19,7 +22,7 @@ Objectives
 
 Interests
 ------
-hi
+Beyond research, I am passionate about...
 
 Create content & metadata
 ------
