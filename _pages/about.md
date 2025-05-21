@@ -19,7 +19,7 @@ Interests
 ------
 Beyond neural tool development, I am also interested in brain-computer interfaces, scientific policy, teaching/mentoring and entrepreneurship
 
-I have 8 years of tutoring and teaching experience in math, chemistry, physics, the sciences, and SAT/ACT prep. If you are interested, send me an email [here].(mailto:tja.tutoring@gmail.com)
+I have 8 years of tutoring and teaching experience in math, chemistry, physics, the sciences, and SAT/ACT prep. If you are interested, send me an email [here](mailto:tja.tutoring@gmail.com).
 
 
 Objectives
